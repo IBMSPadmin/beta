@@ -1,4 +1,7 @@
+#######
 title:   'spadmin.py BETA site'
+
+path: ''
 
 markdown:    kramdown
 highlighter: rouge
