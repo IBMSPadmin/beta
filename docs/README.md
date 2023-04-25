@@ -4,6 +4,8 @@ We've created this page where you can try our new program called spadmin.py out 
 
 With many years of experience behind us, we've created a utility that can help the daily work of IBM Spectrum Protect administrators. 
 
+We ask you to contribute with your constructive comments and suggestions to the developers. The source code not yet opend for the public.
+
 # Main features
 
 - cli with IBM SP command complition
