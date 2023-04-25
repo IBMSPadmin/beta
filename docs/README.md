@@ -2,9 +2,9 @@ We've created this page where you can try our new program called spadmin.py out 
 
 # Introduction
 
+With many years of experience behind us, we've created a utility that can help the daily work of IBM Spectrum Protect administrators. 
 
-
-# Features
+# Main features
 
 - cli with IBM SP command complition
 - the command complition can also handle IBM SP objects
@@ -39,8 +39,8 @@ We've created this page where you can try our new program called spadmin.py out 
 
 # Issues
 
-https://github.com/IBMSPadmin/beta/issues
+[https://github.com/IBMSPadmin/beta/issues](https://github.com/IBMSPadmin/beta/issues)
 
 # Discussions
 
-https://github.com/IBMSPadmin/beta/discussions
+[https://github.com/IBMSPadmin/beta/discussions](https://github.com/IBMSPadmin/beta/discussions)
