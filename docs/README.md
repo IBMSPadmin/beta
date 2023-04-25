@@ -10,6 +10,7 @@ With many years of experience behind us, we've created a utility that can help t
 - the command complition can also handle IBM SP objects
 - command alisases
 - command history
+- command result history (TimeMachine)
 - grep
 - HTML output
 - predefine custom commands for easier daily work 
