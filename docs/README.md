@@ -1,6 +1,8 @@
+We've created this page where you can try our new program called spadmin.py out before the final release and share any bugs or comments with us.
+
 # Introduction
 
-We've created this page where you can try our new program called spadmin.py out before the final release and share any bugs or comments with us.
+
 
 # Features
 
@@ -10,7 +12,7 @@ We've created this page where you can try our new program called spadmin.py out 
 - command history
 - grep
 - HTML output
-- 
+- predefine custom commands for easier daily work 
 
 # Prerequisites
 
@@ -27,10 +29,18 @@ We've created this page where you can try our new program called spadmin.py out 
 
 ## IBM Spectrum Protect
 
-- Spectrum Protect 6, 7, 8
+- IBM Spectrum Protect v6, v7, v8
 
 # Releases
 
 [https://github.com/IBMSPadmin/beta/releases](https://github.com/IBMSPadmin/beta/releases)
 
 # Command examples
+
+# Issues
+
+https://github.com/IBMSPadmin/beta/issues
+
+# Discussions
+
+https://github.com/IBMSPadmin/beta/discussions
