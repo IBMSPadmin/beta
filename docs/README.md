@@ -37,7 +37,7 @@ We ask you to contribute with your constructive comments and suggestions to the 
 
 ## IBM Spectrum Protect
 
-- IBM Spectrum Protect v6, v7, v8
+- IBM Spectrum Protect v6, v7, v8 (Some commands will of course still run on the old v5 systems, but not all.)
 
 # Releases, get spadmin.py
 
