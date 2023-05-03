@@ -47,6 +47,12 @@ We ask you to contribute with your constructive comments and suggestions to the 
 
 # Issues
 
+How you should help us debuging any issues you're having with spadmin.py. The **spadmin show log** command may identifies the issues. Most of the time, you won't need to do anything else just send us the log via Github Issues with a small description of the expected behaviour!
+
+## Expected output example
+
+$ spadmin show log
+
 [https://github.com/IBMSPadmin/beta/issues](https://github.com/IBMSPadmin/beta/issues)
 
 # Feature requests
