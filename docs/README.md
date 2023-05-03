@@ -49,6 +49,13 @@ We ask you to contribute with your constructive comments and suggestions to the 
 
 [https://github.com/IBMSPadmin/beta/issues](https://github.com/IBMSPadmin/beta/issues)
 
-# Discussions
+# Feature requests
+
+All feature requests are welcome! If you've got an idea for another feature or anything that would make your backup admin life easier, please get in touch!
+
+The best way to request a feature is via our GitHub Discussions page
+If you have a more in-depth idea, please get in touch via email! idea@spadmin.py.io - we'd love to discuss it with you 😀
+
+# Free discussions
 
 [https://github.com/IBMSPadmin/beta/discussions](https://github.com/IBMSPadmin/beta/discussions)
