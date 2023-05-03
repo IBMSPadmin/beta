@@ -1,5 +1,7 @@
 We've created this page where you can try our new program called spadmin.py out before the final release and share any bugs or comments with us.
 
+The next-generation of dsmadmc command line tool.
+
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
 # Introduction
@@ -10,7 +12,7 @@ We ask you to contribute with your constructive comments and suggestions to the 
 
 # Main features
 
-- cli with IBM SP command complition
+- cli with IBM SP command completion 
 - the command complition can also handle IBM SP objects
 - command alisases
 - command history
@@ -18,6 +20,7 @@ We ask you to contribute with your constructive comments and suggestions to the 
 - grep
 - HTML output
 - predefine custom commands for easier daily work 
+- historical data retrieve
 
 # Prerequisites
 
