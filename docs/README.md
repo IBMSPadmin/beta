@@ -10,6 +10,8 @@ With many years of experience behind us, we've created a utility that can help t
 
 We ask you to contribute with your constructive comments and suggestions to the developers. The source code not yet opend for the public.
 
+![spadmin.py](images/spadmin_screen_01.png)
+
 # Main features
 
 - cli with IBM SP command completion 
