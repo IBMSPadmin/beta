@@ -23,6 +23,7 @@ We ask you to contribute with your constructive comments and suggestions to the 
 - HTML output
 - predefine custom commands for easier daily work 
 - historical data retrieve
+- 
 
 # Prerequisites
 
