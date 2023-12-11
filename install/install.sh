@@ -70,17 +70,16 @@ done
 OS="$(uname)"
 if [[ "${OS}" == "Linux" ]]
 then
-  HOMEBREW_ON_LINUX=1
+  SPADMIN_ON_LINUX=1
 elif [[ "${OS}" == "Darwin" ]]
 then
-  HOMEBREW_ON_MACOS=1
+  SPADMIN_ON_MACOS=1
 else
-  abort "Homebrew is only supported on macOS and Linux."
+  abort "Spadmin is only supported on macOS, CentOS and Ubuntu."
 fi
 
-if [[ -n "${HOMEBREW_ON_MACOS-}" ]]
+if [[ -n "${SPADMIN_ON_MACOS-}" ]]
 then
-  mkdir -p ~/spadmin
-  curl https://github.com/IBMSPadmin/beta/releases/download/ubuntu/spadmin_ubuntu-20.04_20231205_091203 -o /tmp/spadmin.bin
-  mv /tmp/spadmin.bin ~/spadmin
+  echo Installing on macOS...
+  mkdir -p ~/spadmin && curl -fsSL https://github.com/IBMSPadmin/beta/releases/download/RLS/spadmin_macOS -o ~/spadmin/spadmin && chmod +x ~/spadmin/spadmin && ~/spadmin/spadmin
 fi
