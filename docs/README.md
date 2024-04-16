@@ -1,3 +1,7 @@
+<style> 
+    body { text-align: justify; } 
+</style>
+
 We've created this page where you can try our new program called **spadmin.py** out before the final release and share any bugs or comments with us.
 
 The next-generation of dsmadmc command line tool. Available for Mac 🍎, Linux, and Windows (WSL).
