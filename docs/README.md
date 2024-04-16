@@ -20,7 +20,7 @@ We ask you to contribute with your constructive comments and suggestions to the 
 
 - **cli with IBM SP command completion**
 - **the command complition can also handle IBM SP objects**
-- command alisases
+- command aliases
 - command history
 - command result history (TimeMachine)
 - grep
