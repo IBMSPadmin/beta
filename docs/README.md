@@ -61,7 +61,7 @@ If you want to try it on our live test environment, you can use the following co
 
 ## License
 
-You can request a licence to try it out from here: szmarcell@gmail.com
+You can request a licence to try it out from here: [get.spadm.lic@gmail.com](mailto:get.spadm.lic@gmail.com?subject=Licence%20request)
 
 # Command examples
 
