@@ -165,6 +165,10 @@ You can request a licence to try this out from here: [get.spadm.lic@gmail.com](m
 
 # Command examples
 
+Simple TAB+TAB:
+
+![spadmin.py](images/tab-tab.png)
+
 The available built-in commands:
 
 > SHow ADMINEVents              
@@ -203,13 +207,29 @@ Let's try these command for example:
 
 ![spadmin.py](images/show_sessions.png)
 
+![spadmin.py](images/show_sessions_2.png)
+
 [TSM8 v8.1.21.0] > **SHow PRocesses**
 
 ![spadmin.py](images/show_processes.png)
 
+![spadmin.py](images/show_processes_2.png)
+
 [TSM8 v8.1.21.0] > **SHow COPYGroups**
 
+![spadmin.py](images/show_copygroups.png)
+
 [TSM8 v8.1.21.0] > **sh STGpools**
+
+![spadmin.py](images/show_stgpools.png)
+
+[TSM8 v8.1.21.0] > **sh STATUS**
+
+![spadmin.py](images/show_status.png)
+
+[TSM8 v8.1.21.0] > **sh MIGRATIONPerformance**
+
+![spadmin.py](images/show_migtationperformance.png)
 
 # FUTURE
 
