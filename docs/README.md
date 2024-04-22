@@ -170,7 +170,7 @@ Simple TAB+TAB:
 
 > This happens when you simply press tab+tab, i.e. you see the first level of the available commands. 
 
-![spadmin.py](images/tab-tab.png){: style=".shadow {-webkit-box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.84); -moz-box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.84); box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.84);}"}
+![spadmin.py](images/tab-tab.png){: style="-webkit-box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.84); -moz-box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.84); box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.84);"}
 
 The available built-in commands:
 
