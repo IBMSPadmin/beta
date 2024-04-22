@@ -57,7 +57,7 @@ If you want to try it on our live test environment, you can use the following co
 
 ## Installation steps
 
-**dsmadmc -id=demo -pa=password1234 q sess**
+[spadmintsm ~]$ **dsmadmc -id=demo -pa=password1234 q sess**
 
 ```
 IBM Storage Protect
@@ -79,15 +79,15 @@ Number     Method     State        Time        Sent       Recvd     Type
 ANS8002I Highest return code was 0.
 ```
 
-**python3 --version**
+[spadmintsm ~]$ **python3 --version**
 
 ```Python 3.6.8```
 
-**cat /etc/centos-release**
+[spadmintsm ~]$ **cat /etc/centos-release**
 
 ```CentOS Linux release 7.9.2009 (Core)```
 
-**wget https://github.com/IBMSPadmin/beta/releases/download/RLS/spadmin_CentOS7.9_py3.6.8**
+[spadmintsm ~]$ **wget https://github.com/IBMSPadmin/beta/releases/download/RLS/spadmin_CentOS7.9_py3.6.8**
 
 ```
 --2024-04-22 09:39:19--  https://github.com/IBMSPadmin/beta/releases/download/RLS/spadmin_CentOS7.9_py3.6.8
@@ -107,9 +107,9 @@ Saving to: ‘spadmin_CentOS7.9_py3.6.8’
 2024-04-22 09:39:28 (2.47 MB/s) - ‘spadmin_CentOS7.9_py3.6.8’ saved [8068048/8068048]
 ```
 
-**chmod +x spadmin_CentOS7.9_py3.6.8**
+[spadmintsm ~]$ **chmod +x spadmin_CentOS7.9_py3.6.8**
 
-**./spadmin_CentOS7.9_py3.6.8**
+[spadmintsm ~]$ **./spadmin_CentOS7.9_py3.6.8**
 
 ```
 /root/spadmin/ directory created.
@@ -161,7 +161,7 @@ Thanks.
 
 ## License
 
-You can request a licence to try it out from here: [get.spadm.lic@gmail.com](mailto:get.spadm.lic@gmail.com?subject=Licence%20request)
+You can request a licence to try this out from here: [get.spadm.lic@gmail.com](mailto:get.spadm.lic@gmail.com?subject=Licence%20request)
 
 # Command examples
 
