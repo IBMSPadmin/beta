@@ -165,7 +165,51 @@ You can request a licence to try this out from here: [get.spadm.lic@gmail.com](m
 
 # Command examples
 
-```TODO!```
+The available built-in commands:
+
+> SHow ADMINEVents              
+> SHow CLIENTARCHIVEPERFormance 
+> SHow CLIENTBACKUPPERFormance  
+> SHow CLIENTRESTOREPERFormance 
+> SHow CLIENTRETRIEVEPERFormance
+> SHow COLumns                  
+> SHow COPYGroups               
+> SHow DBBACKUPPERFormance      
+> SHow DBBackups                
+> SHow DBSBackups               
+> SHow DRives                   
+> SHow EVents                   
+> SHow FILLings                 
+> SHow INActives                
+> SHow MIGRATIONPERFormance     
+> SHow MIssinglibvolumes        
+> SHow MOUnt                    
+> SHow MOVEDATAPERFormance      
+> SHow NODEOccuopancy           
+> SHow PAth                     
+> SHow PRocesses                
+> SHow RECLAMATIONPERFormance   
+> SHow REPLICATIONDifferences   
+> SHow RULer                    
+> SHow SCRatches                
+> SHow SESsions                 
+> SHow STGPOOLBACKUPPERFormance 
+> SHow STGpools                 
+> SHow STatus                                     
+
+Let's try these command for example:
+
+[TSM8 v8.1.21.0] > **SHow SESsions** 
+
+![spadmin.py](images/show_sessions.png)
+
+[TSM8 v8.1.21.0] > **SHow PRocesses**
+
+![spadmin.py](images/show_processes.png)
+
+[TSM8 v8.1.21.0] > **SHow COPYGroups**
+
+[TSM8 v8.1.21.0] > **sh STGpools**
 
 # FUTURE
 
