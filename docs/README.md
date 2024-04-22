@@ -1,4 +1,9 @@
-<style> p { text-align: justify; } </style>
+<style> p { text-align: justify; } 
+.shadow {
+  -webkit-box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.84);
+  -moz-box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.84);
+  box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.84); }
+</style>
 
 The next-generation of dsmadmc command line tool. Available for Mac 🍎, Linux, and Windows (WSL).
 
@@ -170,7 +175,7 @@ Simple TAB+TAB:
 
 > This happens when you simply press tab+tab, i.e. you see the first level of the available commands. 
 
-![spadmin.py](images/tab-tab.png){: style="-webkit-box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.84); -moz-box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.84); box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.84);"}
+![spadmin.py](images/tab-tab.png){: .shadow }
 
 The available built-in commands:
 
@@ -210,31 +215,31 @@ Let's see the output of these commands:
 
 [TSM8 v8.1.21.0] > **SHow SESsions** alias 'query session'
 
-![spadmin.py](images/show_sessions.png)
+![spadmin.py](images/show_sessions.png){: .shadow }
 
-![spadmin.py](images/show_sessions_2.png)
+![spadmin.py](images/show_sessions_2.png){: .shadow }
 
 [TSM8 v8.1.21.0] > **SHow PRocesses** alias 'query process'
 
-![spadmin.py](images/show_processes.png)
+![spadmin.py](images/show_processes.png){: .shadow }
 
-![spadmin.py](images/show_processes_2.png)
+![spadmin.py](images/show_processes_2.png){: .shadow }
 
 [TSM8 v8.1.21.0] > **SHow COPYGroups**
 
-![spadmin.py](images/show_copygroups.png)
+![spadmin.py](images/show_copygroups.png){: .shadow }
 
 [TSM8 v8.1.21.0] > **sh STGpools** alias 'query stgpool'
 
-![spadmin.py](images/show_stgpools.png)
+![spadmin.py](images/show_stgpools.png){: .shadow }
 
 [TSM8 v8.1.21.0] > **sh STATUS**
 
-![spadmin.py](images/show_status.png)
+![spadmin.py](images/show_status.png){: .shadow }
 
 [TSM8 v8.1.21.0] > **sh MIGRATIONPerformance**
 
-![spadmin.py](images/show_migtationperformance.png)
+![spadmin.py](images/show_migtationperformance.png){: .shadow }
 
 # FUTURE
 
