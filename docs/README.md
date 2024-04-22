@@ -52,8 +52,7 @@ If you want to try it on your own environment download the latest pregenerated b
 
 [https://github.com/IBMSPadmin/beta/releases](https://github.com/IBMSPadmin/beta/releases)
 
-If you want to try it on our live test environment instead, you can use the following command: [ssh spadmin@158.177.249.114](ssh://spadmin@158.177.249.114)
-The password is: **spadmin**
+If you want to try it on our live test environment instead, you can use the following command: [ssh spadmin@158.177.249.114](ssh://spadmin@158.177.249.114)<br>The password is: **spadmin**
 
 ## Installation steps
 
