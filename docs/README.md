@@ -12,7 +12,7 @@ Whith my colleagues, we've been trying around to find a good tool to make our ow
 
 More than a year ago, we tried to create such a solution in [Python3](https://www.python.org/), which is so popular today. We're not Python programmers, but we wanted to try how to solve this in Python. At the moment we have reached a stable state that we would like to share and get feedback on.
 
-We ask you to contribute with your constructive comments and suggestions to the developers. The source code not yet opend for the public.
+We ask you to contribute with your constructive comments and suggestions to the developers. The source code not yet opened for the public.
 
 ![spadmin.py](images/spadmin_screen_01.png)
 
