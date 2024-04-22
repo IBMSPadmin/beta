@@ -167,9 +167,13 @@ You can request a licence to try this out from here: [get.spadm.lic@gmail.com](m
 
 Simple TAB+TAB:
 
+> This happens when you simply press tab+tab, i.e. you see the first level of the available commands. 
+
 ![spadmin.py](images/tab-tab.png)
 
 The available built-in commands:
+
+> These are our own built-in commands that we have modified a bit from the original to make the output easier to understand. They usually start with a **show** keyword.
 
 > SHow ADMINEVents              
 > SHow CLIENTARCHIVEPERFormance 
@@ -201,15 +205,15 @@ The available built-in commands:
 > SHow STGpools                 
 > SHow STatus                                     
 
-Let's try these command for example:
+Let's see the output of these commands:
 
-[TSM8 v8.1.21.0] > **SHow SESsions** 
+[TSM8 v8.1.21.0] > **SHow SESsions** alias 'query session'
 
 ![spadmin.py](images/show_sessions.png)
 
 ![spadmin.py](images/show_sessions_2.png)
 
-[TSM8 v8.1.21.0] > **SHow PRocesses**
+[TSM8 v8.1.21.0] > **SHow PRocesses** alias 'query process'
 
 ![spadmin.py](images/show_processes.png)
 
@@ -219,7 +223,7 @@ Let's try these command for example:
 
 ![spadmin.py](images/show_copygroups.png)
 
-[TSM8 v8.1.21.0] > **sh STGpools**
+[TSM8 v8.1.21.0] > **sh STGpools** alias 'query stgpool'
 
 ![spadmin.py](images/show_stgpools.png)
 
