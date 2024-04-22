@@ -220,23 +220,20 @@ If you are interested, there are several ways you can support us:
 
 # Issues
 
-How you should help us debuging any issues you're having with spadmin.py. The **spadmin show log** command may identifies the issues. Most of the time, you won't need to do anything else just send us the log via Github Issues with a small description of the expected behaviour!
+How you should help us debuging any issues you're having with spadmin.py. The **spadmin show log** command may identifies the issues. Most of the time, you won't need to do anything else just send us the log via [Github Issues](https://github.com/IBMSPadmin/beta/issues) with a small description of the expected behaviour!
 
 ## Expected output example
 
-$ spadmin show log
+[TSM8 v8.1.21.0] > **spadmin show log**
 
 [https://github.com/IBMSPadmin/beta/issues](https://github.com/IBMSPadmin/beta/issues)
 
-# Feature requests
+# Feature requests, free discussions
 
-All feature requests are welcome! If you've got an idea for another feature or anything that would make your backup admin life easier, please get in touch!
+All feature requests are welcome! If you've got an idea for another feature or anything that would make your backup admin life easier, please get in touch! If you have a more in-depth idea, please get in touch  - we'd love to discuss it with you 😀
 
-The best way to request a feature is via our GitHub Discussions page
-If you have a more in-depth idea, please get in touch via email! idea@spadmin.py.io - we'd love to discuss it with you 😀
+The best way to request a feature is via our [GitHub Discussions page](https://github.com/IBMSPadmin/beta/discussions)
 
-# Free discussions
-
-[https://github.com/IBMSPadmin/beta/discussions](https://github.com/IBMSPadmin/beta/discussions)
+``` ```
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
