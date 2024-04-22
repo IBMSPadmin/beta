@@ -59,7 +59,8 @@ If you want to try it on our live test environment, you can use the following co
 
 **dsmadmc -id=demo -pa=password1234 q sess**
 
-```IBM Storage Protect
+```
+IBM Storage Protect
 Command Line Administrative Interface - Version 8, Release 1, Level 21.0
 (c) Copyright by IBM Corporation and other(s) 1990, 2023. All Rights Reserved.
 
@@ -75,7 +76,8 @@ Number     Method     State        Time        Sent       Recvd     Type
     16     SSL        Run          0 S          150         247     Admin       Linux        DEMO
                                                                                  x86-64
 
-ANS8002I Highest return code was 0.```
+ANS8002I Highest return code was 0.
+```
 
 **python3 --version**
 
