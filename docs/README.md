@@ -57,8 +57,6 @@ If you want to try it on our live test environment, you can use the following co
 
 ## Installation steps
 
-```TODO!```
-
 **dsmadmc -id=demo -pa=password1234 q sess**
 
 ```IBM Storage Protect
@@ -89,7 +87,8 @@ ANS8002I Highest return code was 0.```
 
 **wget https://github.com/IBMSPadmin/beta/releases/download/RLS/spadmin_CentOS7.9_py3.6.8**
 
-```--2024-04-22 09:39:19--  https://github.com/IBMSPadmin/beta/releases/download/RLS/spadmin_CentOS7.9_py3.6.8
+```
+--2024-04-22 09:39:19--  https://github.com/IBMSPadmin/beta/releases/download/RLS/spadmin_CentOS7.9_py3.6.8
 Resolving github.com (github.com)... 140.82.121.3
 Connecting to github.com (github.com)|140.82.121.3|:443... connected.
 HTTP request sent, awaiting response... 302 Found
@@ -103,13 +102,15 @@ Saving to: ‘spadmin_CentOS7.9_py3.6.8’
 
 100%[===================================================================================================>] 8,068,048   2.47MB/s   in 3.1s
 
-2024-04-22 09:39:28 (2.47 MB/s) - ‘spadmin_CentOS7.9_py3.6.8’ saved [8068048/8068048]```
+2024-04-22 09:39:28 (2.47 MB/s) - ‘spadmin_CentOS7.9_py3.6.8’ saved [8068048/8068048]
+```
 
 **chmod +x spadmin_CentOS7.9_py3.6.8**
 
 **./spadmin_CentOS7.9_py3.6.8**
 
-```/root/spadmin/ directory created.
+```
+/root/spadmin/ directory created.
 /root/spadmin/log directory created.
 /root/spadmin/TMQueries directory created.
 Welcome!
@@ -117,7 +118,6 @@ Before we start, you have to add some parameters to handle login for Spectrum Pr
 We have found dsmadmc:  /usr/bin/dsmadmc
 Enter your Spectrum Protect userid (eg. admin): demo
 Enter your password for user 'demo' :
-
 
  ███████╗ ██████╗   █████╗  ██████╗  ███╗   ███╗ ██╗ ███╗   ██╗     ██████╗  ██╗   ██╗
  ██╔════╝ ██╔══██╗ ██╔══██╗ ██╔══██╗ ████╗ ████║ ██║ ████╗  ██║     ██╔══██╗ ╚██╗ ██╔╝
@@ -154,7 +154,8 @@ send me a trial license for spadmin, please.
 My Machine's Globally Unique ID where I want to use it: c4.6d.11.62.55.ca.ed.11.94.c4.06.ec.49.44.c5.7b
 
 Thanks.
---- CUT ---```
+--- CUT ---
+```
 
 ## License
 
