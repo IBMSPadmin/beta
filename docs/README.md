@@ -1,12 +1,10 @@
-We've created this page where you can try our new program called **spadmin.py** out before the final release and share any bugs or comments with us.
-
 The next-generation of dsmadmc command line tool. Available for Mac 🍎, Linux, and Windows (WSL).
 
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
+We've created this page where you can try our new program called **spadmin.py** out before the final release and share any bugs or comments with us.
 
 # Introduction
 
-With many years of experience behind us, we've created a utility that can help the daily work of IBM Spectrum Protect administrators. 
+With many years of experience behind us, we've created a utility that can help the daily work of **IBM Spectrum/Storage Protect** administrators. 
 
 Whith my colleagues, we've been trying around to find a good tool to make our own daily TSM/SP work easier. We've made several Perl-based solutions like [tsmadm.pl](https://tsmadm.pl.fleischmann.hu/) and we have had a [Node.js poc](https://github.com/FleXoft/spadmin.js) in the past. These are the ones that are still available on the web.
 
@@ -25,9 +23,8 @@ We ask you to contribute with your constructive comments and suggestions to the 
 - command result history (TimeMachine)
 - grep
 - HTML output
-- predefine custom commands for easier daily work 
-- historical data retrieve 
-- 
+- predefine custom commands for easier daily work
+- historical data retrieve
 
 # Prerequisites
 
@@ -39,7 +36,7 @@ We ask you to contribute with your constructive comments and suggestions to the 
 - Docker container
 - unfortunately, these functions: GNUreadline, pexpect + Unix fork cannot be done nicely in Python3 under Microsoft Windows, so we had to drop the direct support of Microsoft Windows
 
-## python
+## Python
 
 - python3 
 
@@ -49,11 +46,12 @@ We ask you to contribute with your constructive comments and suggestions to the 
 
 # Releases, get spadmin.py
 
-If you'd like to download the latest binaries, you can find them here:
+If you want to try it on your own environment download the latest pregenerated binaries (Linux, maxOS) you can find them here:
 
 [https://github.com/IBMSPadmin/beta/releases](https://github.com/IBMSPadmin/beta/releases)
 
-If you want to try it on our live test environment, you can use the following command: [ssh spadmin@158.177.249.114](ssh://spadmin@158.177.249.114) The password is: **spadmin**
+If you want to try it on our live test environment instead, you can use the following command: [ssh spadmin@158.177.249.114](ssh://spadmin@158.177.249.114)
+The password is: **spadmin**
 
 ## Installation steps
 
@@ -240,3 +238,5 @@ If you have a more in-depth idea, please get in touch via email! idea@spadmin.py
 # Free discussions
 
 [https://github.com/IBMSPadmin/beta/discussions](https://github.com/IBMSPadmin/beta/discussions)
+
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
