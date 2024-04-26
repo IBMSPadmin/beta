@@ -7,6 +7,10 @@
 
 The next-generation of dsmadmc command line tool. Available for Mac 🍎, Linux, and Windows (WSL).
 
+<video controls="controls" name="spadmin.py video">
+  <source src="videos/spadmin.mov">
+</video>
+
 We've created this page where you can try our new program called **spadmin.py** out before the final release and share any bugs or comments with us.
 
 # Introduction
