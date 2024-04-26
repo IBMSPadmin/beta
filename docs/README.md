@@ -13,7 +13,7 @@ We've created this page where you can try our new program called **spadmin.py** 
 
 With many years of experience behind us, we've created a utility that can help the daily work of **IBM Spectrum/Storage Protect** administrators. 
 
-Whith my colleagues, we've been trying around to find a good tool to make our own daily TSM/SP work easier. We've made several Perl-based solutions like [tsmadm.pl](https://tsmadm.pl.fleischmann.hu/) and we have had a [Node.js poc](https://github.com/FleXoft/spadmin.js) in the past. These are the ones that are still available on the web.
+With my colleagues, we've been trying around to find a good tool to make our own daily TSM/SP work easier. We've made several Perl-based solutions like [tsmadm.pl](https://tsmadm.pl.fleischmann.hu/) and we have had a [Node.js poc](https://github.com/FleXoft/spadmin.js) in the past. These are the ones that are still available on the web.
 
 More than a year ago, we tried to create such a solution in [Python3](https://www.python.org/), which is so popular today. We're not Python programmers, but we wanted to try how to solve this in Python. At the moment we have reached a stable state that we would like to share and get feedback on.
 
