@@ -69,6 +69,8 @@ If you want to try it on our live test environment instead, you can use the foll
 
 [spadmintsm ~]$ **dsmadmc -id=demo -pa=password q sess**
 
+You can setup your own credentials at spadmin.py first start. 
+
 ```
 IBM Storage Protect
 Command Line Administrative Interface - Version 8, Release 1, Level 21.0
@@ -128,7 +130,7 @@ Saving to: ‘spadmin_CentOS7.9_py3.6.8’
 Welcome!
 Before we start, you have to add some parameters to handle login for Spectrum Protect
 We have found dsmadmc:  /usr/bin/dsmadmc
-Enter your Spectrum Protect userid (eg. admin): **demo**
+Enter your Spectrum Protect userid (eg. admin): demo
 Enter your password for user 'demo' : 
 
  ███████╗ ██████╗   █████╗  ██████╗  ███╗   ███╗ ██╗ ███╗   ██╗     ██████╗  ██╗   ██╗
@@ -185,10 +187,10 @@ The available built-in commands:
 
 > These are our own built-in commands that we have modified a bit from the original to make the output easier to understand. They usually start with a **show** keyword.
 
-> SHow ADMINEVents              
-> SHow CLIENTARCHIVEPERFormance 
-> SHow CLIENTBACKUPPERFormance  
-> SHow CLIENTRESTOREPERFormance 
+> SHow ADMINEVents
+> SHow CLIENTARCHIVEPERFormance
+> SHow CLIENTBACKUPPERFormance
+> SHow CLIENTRESTOREPERFormance
 > SHow CLIENTRETRIEVEPERFormance
 > SHow COLumns                  
 > SHow COPYGroups               
@@ -211,7 +213,7 @@ The available built-in commands:
 > SHow RULer                    
 > SHow SCRatches                
 > SHow SESsions                 
-> SHow STGPOOLBACKUPPERFormance 
+> SHow STGPOOLBACKUPPERFormance
 > SHow STGpools                 
 > SHow STatus                                     
 
