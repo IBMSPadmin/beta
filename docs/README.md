@@ -128,8 +128,8 @@ Saving to: ‘spadmin_CentOS7.9_py3.6.8’
 Welcome!
 Before we start, you have to add some parameters to handle login for Spectrum Protect
 We have found dsmadmc:  /usr/bin/dsmadmc
-Enter your Spectrum Protect userid (eg. admin): demo
-Enter your password for user 'demo' :
+Enter your Spectrum Protect userid (eg. admin): **demo**
+Enter your password for user 'demo' : 
 
  ███████╗ ██████╗   █████╗  ██████╗  ███╗   ███╗ ██╗ ███╗   ██╗     ██████╗  ██╗   ██╗
  ██╔════╝ ██╔══██╗ ██╔══██╗ ██╔══██╗ ████╗ ████║ ██║ ████╗  ██║     ██╔══██╗ ╚██╗ ██╔╝
