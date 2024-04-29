@@ -187,35 +187,35 @@ The available built-in commands:
 
 > These are our own built-in commands that we have modified a bit from the original to make the output easier to understand. They usually start with a **show** keyword.
 
-> SHow ADMINEVents
-> SHow CLIENTARCHIVEPERFormance
-> SHow CLIENTBACKUPPERFormance
-> SHow CLIENTRESTOREPERFormance
-> SHow CLIENTRETRIEVEPERFormance
-> SHow COLumns                  
-> SHow COPYGroups               
-> SHow DBBACKUPPERFormance      
-> SHow DBBackups                
-> SHow DBSBackups               
-> SHow DRives                   
-> SHow EVents                   
-> SHow FILLings                 
-> SHow INActives                
-> SHow MIGRATIONPERFormance     
-> SHow MIssinglibvolumes        
-> SHow MOUnt                    
-> SHow MOVEDATAPERFormance      
-> SHow NODEOccuopancy           
-> SHow PAth                     
-> SHow PRocesses                
-> SHow RECLAMATIONPERFormance   
-> SHow REPLICATIONDifferences   
-> SHow RULer                    
-> SHow SCRatches                
-> SHow SESsions                 
-> SHow STGPOOLBACKUPPERFormance
-> SHow STGpools                 
-> SHow STatus                                     
+- SHow ADMINEVents
+- SHow CLIENTARCHIVEPERFormance
+- SHow CLIENTBACKUPPERFormance
+- SHow CLIENTRESTOREPERFormance
+- SHow CLIENTRETRIEVEPERFormance
+- SHow COLumns                  
+- SHow COPYGroups               
+- SHow DBBACKUPPERFormance      
+- SHow DBBackups                
+- SHow DBSBackups               
+- SHow DRives                   
+- SHow EVents                   
+- SHow FILLings                 
+- SHow INActives                
+- SHow MIGRATIONPERFormance     
+- SHow MIssinglibvolumes        
+- SHow MOUnt                    
+- SHow MOVEDATAPERFormance      
+- SHow NODEOccuopancy           
+- SHow PAth                     
+- SHow PRocesses                
+- SHow RECLAMATIONPERFormance   
+- SHow REPLICATIONDifferences   
+- SHow RULer                    
+- SHow SCRatches                
+- SHow SESsions                 
+- SHow STGPOOLBACKUPPERFormance
+- SHow STGpools                 
+- SHow STatus                                     
 
 Let's see the output of these commands:
 
