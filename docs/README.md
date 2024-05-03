@@ -49,11 +49,7 @@
 
 The next-generation of dsmadmc command line tool. Available for Mac 🍎, Linux, and Windows (WSL).
 
-<video controls="controls" width="100%" name="spadmin.py video" loop autoplay>
-  <source src="videos/spadmin_v2_480p.mov">
-</video>
-
-<div style="margin: auto; width: 80%; margin-bottom: -26px;"><div class="videocontainer"><iframe class="iframeshadow" src="https://www.youtube.com/embed/Sh0cCK-lsIs" frameborder="0" allowfullscreen></iframe></div></div>
+<div style="margin: auto; width: 100%;"><div class="videocontainer"><iframe class="iframeshadow" src="https://www.youtube.com/embed/Sh0cCK-lsIs" frameborder="0" allowfullscreen></iframe></div></div>
 
 We've created this page where you can try our new program called **spadmin.py** out and share any bugs or comments with us.
 
