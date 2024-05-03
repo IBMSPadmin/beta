@@ -11,7 +11,7 @@ The next-generation of dsmadmc command line tool. Available for Mac 🍎, Linux,
   <source src="videos/spadmin.mov">
 </video>
 
-We've created this page where you can try our new program called **spadmin.py** out before the final release and share any bugs or comments with us.
+We've created this page where you can try our new program called **spadmin.py** out and share any bugs or comments with us.
 
 # Introduction
 
