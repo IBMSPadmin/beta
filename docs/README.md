@@ -1,8 +1,50 @@
 <style> p { text-align: justify; } 
-.shadow {
-  -webkit-box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.84);
-  -moz-box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.84);
-  box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.84); }
+  .shadow {
+    -webkit-box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.84);
+    -moz-box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.84);
+    box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.84); }
+
+  video.shadow {
+			position: relative; 
+
+	    	-webkit-box-shadow: 0px 4px 18px rgba(0,0,0,0.84);					
+	    	-moz-box-shadow: 0px 4px 18px rgba(0,0,0,0.84);
+	    	box-shadow: 0px 4px 18px rgba(0,0,0,0.84);
+					
+			width: 960px; 
+			height: 540px; 
+		
+			overflow: visible;
+			
+			margin: auto;	
+   	    }
+
+	    .wrapper {
+			width: 960px; 
+			height: 540px; 
+		
+			top:0; bottom: 0; left: 0; right: 0;
+			margin: auto;     
+	    }
+
+		.videocontainer {
+		    position: relative;
+		    height: 0;
+		    padding-bottom: 56.25%;
+		    margin-bottom: 1em;
+		}
+
+		.iframeshadow {
+		    position: absolute;
+		    top:  0;
+		    left: 0;
+		    width:  100%;
+		    height: 100%;
+		    
+		    -webkit-box-shadow: 0px 4px 18px rgba(0,0,0,0.84);          
+		    -moz-box-shadow: 0px 4px 18px rgba(0,0,0,0.84);
+		    box-shadow: 0px 4px 18px rgba(0,0,0,0.84);
+		}
 </style>
 
 The next-generation of dsmadmc command line tool. Available for Mac 🍎, Linux, and Windows (WSL).
