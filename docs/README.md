@@ -8,7 +8,7 @@
 The next-generation of dsmadmc command line tool. Available for Mac 🍎, Linux, and Windows (WSL).
 
 <video controls="controls" width="100%" name="spadmin.py video" loop autoplay>
-  <source src="videos/spadmin.mov">
+  <source src="videos/spadmin_v2_480p.mov">
 </video>
 
 We've created this page where you can try our new program called **spadmin.py** out and share any bugs or comments with us.
