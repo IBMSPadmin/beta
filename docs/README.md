@@ -103,6 +103,18 @@ If you want to try it on your own environment download the latest pregenerated b
 
 If you want to try it on our live test environment instead, you can use the following command: [ssh spadmin@158.177.249.114](ssh://spadmin@158.177.249.114)<br>/* The password is: **spadmin** */
 
+## Simple Example 
+
+Type: **que** and press TAB+TAB
+
+Type: **no** and press TAB+TAB and press SPACE
+
+Type: **TS** and press TAB+TAB and choose a node "TSM". 
+
+Type: **T** and press TAB+TAB and choose a node "Type=" press TAB+TAB and choose: "**Cl**" TAB+TAB  
+
+Do you feel it???
+
 ## Installation steps
 
 > The standard **dsmadmc** command should work on the machine where you want to use it!
@@ -294,7 +306,7 @@ If you are interested, there are several ways you can support us:
 - you can start a [discussion](https://github.com/IBMSPadmin/beta/discussions), share your opinion, give ideas, make suggestions
 - here you can contribute financially to this project with [GitHub Sponsors](https://github.com/sponsors/FleXoft), [BuyMeACoffee](https://buymeacoffee.com/spadmin)
 - if you have a specific need for an extension, you can also use [this](https://github.com/sponsors/FleXoft) way of support with your request
-- if you feel that you have the knowledge, we welcome the help of good programmers, and you can show the seriousness of your interest (minimum 9.99,- EUR) with your [support](https://github.com/sponsors/FleXoft) and get full access to our source code at [GitHub](https://github.com/IBMSPadmin/spadmin/)
+- if you feel that you have the knowledge, we welcome the help of good programmers, and you can show the seriousness of your interest (minimum 9.99,- EUR 😃) with your [support](https://github.com/sponsors/FleXoft) and get full access to our source code at [GitHub](https://github.com/IBMSPadmin/spadmin/)
 
 # Issues
 
