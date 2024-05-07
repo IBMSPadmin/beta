@@ -223,6 +223,14 @@ Thanks.
 --- CUT ---
 ```
 
+## How does it work?
+
+After the first start spadmin.py will create a folder in your ~ (home) directory, where it will store the configuration, license, log and other important files.
+Then spadmin will asks your dsmadmc userid and password, and opens two sessions for your server.
+After the login these two sessions will be used.
+
+
+
 ## License
 
 You can request a licence to try this out from here: [get.spadm.lic@gmail.com](mailto:get.spadm.lic@gmail.com?subject=Licence%20request)
