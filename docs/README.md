@@ -47,7 +47,10 @@
 		}
 </style>
 
-Update: **We finally decided to let this project fly by itself and open the source.** GitHub repo link: [https://github.com/IBMSPadmin/spadmin](https://github.com/IBMSPadmin/spadmin) Take it away!
+Update:<br> 
+**We finally decided to let this project fly by itself and open the source.**<br>
+GitHub repo link: [https://github.com/IBMSPadmin/spadmin](https://github.com/IBMSPadmin/spadmin)<br> 
+Take it away!
 
 The next-generation of dsmadmc command line tool. Available for Mac 🍎, Linux, and Windows (WSL).
 
